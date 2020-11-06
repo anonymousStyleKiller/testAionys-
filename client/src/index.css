@@ -1,0 +1,23 @@
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+select{
+  display: block;
+  margin-top: 10px;
+  background-color: #ee6e73;
+}
+
+.alert {
+ margin-top: 10px;
+}
+
+.row .col.offset-s2{
+  margin-left: 0;
+}
+
+.navigation{
+  margin-right: 15px;
+}
+
+
